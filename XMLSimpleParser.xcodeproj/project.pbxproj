@@ -24,6 +24,9 @@
 		8B924CFE20B2828A00C0F50D /* HTMLPresenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924CF720B2828900C0F50D /* HTMLPresenterViewController.swift */; };
 		8B924CFF20B2828A00C0F50D /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924CF920B2828900C0F50D /* OptionsViewController.swift */; };
 		8B924D0020B2828A00C0F50D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924CFB20B2828A00C0F50D /* ViewController.swift */; };
+		8B924D0120B2887000C0F50D /* XMLSimpleParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16837C20B0243B005BDB97 /* XMLSimpleParser.swift */; };
+		8B924D0220B28A9600C0F50D /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16837A20B023EC005BDB97 /* Node.swift */; };
+		8B924D0420B28DE900C0F50D /* HTMLSimpleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D0320B28DE900C0F50D /* HTMLSimpleTests.swift */; };
 		CDCEE695DC1AB278A3EB9E63 /* Pods_XMLSimpleParser.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D8B1FDF2E6B273582247A84 /* Pods_XMLSimpleParser.framework */; };
 /* End PBXBuildFile section */
 
@@ -62,6 +65,7 @@
 		8B924CF720B2828900C0F50D /* HTMLPresenterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTMLPresenterViewController.swift; sourceTree = "<group>"; };
 		8B924CF920B2828900C0F50D /* OptionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
 		8B924CFB20B2828A00C0F50D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8B924D0320B28DE900C0F50D /* HTMLSimpleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTMLSimpleTests.swift; sourceTree = "<group>"; };
 		92B0C13328CE415A121EED7A /* Pods-XMLSimpleParser.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLSimpleParser.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMLSimpleParser/Pods-XMLSimpleParser.debug.xcconfig"; sourceTree = "<group>"; };
 		D2117C058C952B1BB7013CDC /* Pods-XMLSimpleParserTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLSimpleParserTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMLSimpleParserTests/Pods-XMLSimpleParserTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -140,6 +144,7 @@
 			children = (
 				8B16836D20B021FB005BDB97 /* XMLSimpleParserTests.swift */,
 				8B16836F20B021FB005BDB97 /* Info.plist */,
+				8B924D0320B28DE900C0F50D /* HTMLSimpleTests.swift */,
 			);
 			path = XMLSimpleParserTests;
 			sourceTree = "<group>";
@@ -452,6 +457,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B924D0220B28A9600C0F50D /* Node.swift in Sources */,
+				8B924D0120B2887000C0F50D /* XMLSimpleParser.swift in Sources */,
+				8B924D0420B28DE900C0F50D /* HTMLSimpleTests.swift in Sources */,
 				8B16836E20B021FB005BDB97 /* XMLSimpleParserTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -634,7 +642,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = XMLRecursiveParserTests/Info.plist;
+				INFOPLIST_FILE = XMLSimpleParserTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.avantiic.XMLRecursiveParserTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -651,7 +659,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = XMLRecursiveParserTests/Info.plist;
+				INFOPLIST_FILE = XMLSimpleParserTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.avantiic.XMLRecursiveParserTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";

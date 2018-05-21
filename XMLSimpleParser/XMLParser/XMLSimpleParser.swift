@@ -33,12 +33,13 @@ class XMLSimpleParser: XMLParser {
     }
     
     private func createHtmlStringWith(element: String, attributeDict: [String : String]) -> String {
-        var attributesString = ""
-        for (key, value) in attributeDict {
-            attributesString = attributesString + " \(key)=\"\(value)\" "
+        
+        let attributesString = attributeDict.reduce("") { (partialResult, value) -> String in
+            let (k, v) = value
+            return partialResult + "\(k)=\"\(v)\" "
         }
         
-        return "<\(element)\(attributesString)>"
+        return "<\(element) \(attributesString)>"
     }
 }
 

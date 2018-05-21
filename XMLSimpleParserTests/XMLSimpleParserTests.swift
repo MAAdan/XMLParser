@@ -13,17 +13,21 @@ class XMLSimpleParserTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+        
     }
     
     override func tearDown() {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
+        
+        
         super.tearDown()
     }
     
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+    func testThatEntityHasAttributes() {
+        let html = "<img src=\"http://www.a.com/images/logo.png\" style=\"border: 1px solid red;\" alt=\"Logo\" />"
+        
+        let simpleParser = XMLSimpleParser(data: html.data(using: .utf8)!)
+        simpleParser.resultDelegate = self
+        simpleParser.parse()
     }
     
     func testPerformanceExample() {
@@ -32,5 +36,29 @@ class XMLSimpleParserTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
+}
+
+extension XMLSimpleParserTests: XMLSimpleParserDelegate {
+    func xmlParserDidFinishProcessingDocument(_ node: Node) {
+        let expectedResult = Node()
+        expectedResult.name = "img"
+        expectedResult.attributes = [
+            "src": "http://www.a.com/images/logo.png",
+            "style": "border: 1px solid red;",
+            "alt": "Logo"
+        ]
+        
+        XCTAssertEqual(node.name, expectedResult.name)
+        
+        XCTAssertNotNil(node.attributes, "Node attributes should not be nil")
+        XCTAssertNotNil(expectedResult.attributes, "Expected attributes should not be nil")
+        XCTAssertEqual(node.attributes?.count, expectedResult.attributes?.count, "Number of attributes should be equal")
+        
+        if let nodeAttributes = node.attributes, let expectedAttributes = expectedResult.attributes {
+            XCTAssertEqual(nodeAttributes, expectedAttributes)
+        }
+    }
     
+    func xmlParserDidFinishProcessingDocumentWithError(_ error: Error) {
+    }
 }
