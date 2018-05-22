@@ -13,10 +13,8 @@
 		8B16836020B021FB005BDB97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B16835F20B021FB005BDB97 /* Assets.xcassets */; };
 		8B16836320B021FB005BDB97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B16836120B021FB005BDB97 /* LaunchScreen.storyboard */; };
 		8B16836E20B021FB005BDB97 /* XMLSimpleParserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16836D20B021FB005BDB97 /* XMLSimpleParserTests.swift */; };
-		8B16837B20B023EC005BDB97 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16837A20B023EC005BDB97 /* Node.swift */; };
 		8B16837D20B0243B005BDB97 /* XMLSimpleParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16837C20B0243B005BDB97 /* XMLSimpleParser.swift */; };
 		8B16838020B089E8005BDB97 /* cd-catalog.xml in Resources */ = {isa = PBXBuildFile; fileRef = 8B16837F20B089E8005BDB97 /* cd-catalog.xml */; };
-		8B16838220B09573005BDB97 /* Rule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16838120B09573005BDB97 /* Rule.swift */; };
 		8B924CE420B178E300C0F50D /* article.xml in Resources */ = {isa = PBXBuildFile; fileRef = 8B924CE320B178E300C0F50D /* article.xml */; };
 		8B924CF220B1F74F00C0F50D /* ImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924CF120B1F74F00C0F50D /* ImageTableViewCell.swift */; };
 		8B924CFC20B2828A00C0F50D /* DataRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924CF420B2828900C0F50D /* DataRequest.swift */; };
@@ -25,8 +23,13 @@
 		8B924CFF20B2828A00C0F50D /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924CF920B2828900C0F50D /* OptionsViewController.swift */; };
 		8B924D0020B2828A00C0F50D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924CFB20B2828A00C0F50D /* ViewController.swift */; };
 		8B924D0120B2887000C0F50D /* XMLSimpleParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16837C20B0243B005BDB97 /* XMLSimpleParser.swift */; };
-		8B924D0220B28A9600C0F50D /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B16837A20B023EC005BDB97 /* Node.swift */; };
 		8B924D0420B28DE900C0F50D /* HTMLSimpleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D0320B28DE900C0F50D /* HTMLSimpleTests.swift */; };
+		8B924D0620B3CEA700C0F50D /* nyt-rss.xml in Resources */ = {isa = PBXBuildFile; fileRef = 8B924D0520B3CEA700C0F50D /* nyt-rss.xml */; };
+		8B924D0920B3CF0500C0F50D /* RSSPresenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D0820B3CF0500C0F50D /* RSSPresenterViewController.swift */; };
+		8B924D0C20B3D26000C0F50D /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D0B20B3D26000C0F50D /* Node.swift */; };
+		8B924D0F20B3D28300C0F50D /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D0E20B3D28300C0F50D /* Article.swift */; };
+		8B924D1120B3D2FD00C0F50D /* RSSEntitiesGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D1020B3D2FD00C0F50D /* RSSEntitiesGenerator.swift */; };
+		8B924D1420B3DC3A00C0F50D /* ArticleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D1320B3DC3A00C0F50D /* ArticleTableViewCell.swift */; };
 		CDCEE695DC1AB278A3EB9E63 /* Pods_XMLSimpleParser.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D8B1FDF2E6B273582247A84 /* Pods_XMLSimpleParser.framework */; };
 /* End PBXBuildFile section */
 
@@ -54,10 +57,8 @@
 		8B16836920B021FB005BDB97 /* XMLSimpleParserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XMLSimpleParserTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B16836D20B021FB005BDB97 /* XMLSimpleParserTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLSimpleParserTests.swift; sourceTree = "<group>"; };
 		8B16836F20B021FB005BDB97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8B16837A20B023EC005BDB97 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		8B16837C20B0243B005BDB97 /* XMLSimpleParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLSimpleParser.swift; sourceTree = "<group>"; };
 		8B16837F20B089E8005BDB97 /* cd-catalog.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "cd-catalog.xml"; sourceTree = "<group>"; };
-		8B16838120B09573005BDB97 /* Rule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rule.swift; sourceTree = "<group>"; };
 		8B924CE320B178E300C0F50D /* article.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = article.xml; sourceTree = "<group>"; };
 		8B924CF120B1F74F00C0F50D /* ImageTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageTableViewCell.swift; sourceTree = "<group>"; };
 		8B924CF420B2828900C0F50D /* DataRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataRequest.swift; sourceTree = "<group>"; };
@@ -66,6 +67,12 @@
 		8B924CF920B2828900C0F50D /* OptionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionsViewController.swift; sourceTree = "<group>"; };
 		8B924CFB20B2828A00C0F50D /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8B924D0320B28DE900C0F50D /* HTMLSimpleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTMLSimpleTests.swift; sourceTree = "<group>"; };
+		8B924D0520B3CEA700C0F50D /* nyt-rss.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "nyt-rss.xml"; sourceTree = "<group>"; };
+		8B924D0820B3CF0500C0F50D /* RSSPresenterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSPresenterViewController.swift; sourceTree = "<group>"; };
+		8B924D0B20B3D26000C0F50D /* Node.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
+		8B924D0E20B3D28300C0F50D /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		8B924D1020B3D2FD00C0F50D /* RSSEntitiesGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSEntitiesGenerator.swift; sourceTree = "<group>"; };
+		8B924D1320B3DC3A00C0F50D /* ArticleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleTableViewCell.swift; sourceTree = "<group>"; };
 		92B0C13328CE415A121EED7A /* Pods-XMLSimpleParser.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLSimpleParser.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMLSimpleParser/Pods-XMLSimpleParser.debug.xcconfig"; sourceTree = "<group>"; };
 		D2117C058C952B1BB7013CDC /* Pods-XMLSimpleParserTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLSimpleParserTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMLSimpleParserTests/Pods-XMLSimpleParserTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -122,13 +129,13 @@
 		8B16835720B021FB005BDB97 /* XMLSimpleParser */ = {
 			isa = PBXGroup;
 			children = (
+				8B924D0720B3CEE200C0F50D /* RSS */,
 				8B924CF320B2828900C0F50D /* DataRequest */,
 				8B924CF520B2828900C0F50D /* HTMLParser */,
 				8B924CF820B2828900C0F50D /* Options */,
 				8B924CFA20B2828A00C0F50D /* SimpleList */,
 				8B924CF020B1F72B00C0F50D /* Cells */,
 				8B16837E20B089E8005BDB97 /* Resources */,
-				8B16837820B0238E005BDB97 /* XMLEntities */,
 				8B16837920B0238E005BDB97 /* XMLParser */,
 				8B16835820B021FB005BDB97 /* AppDelegate.swift */,
 				8B16835C20B021FB005BDB97 /* Main.storyboard */,
@@ -149,18 +156,10 @@
 			path = XMLSimpleParserTests;
 			sourceTree = "<group>";
 		};
-		8B16837820B0238E005BDB97 /* XMLEntities */ = {
-			isa = PBXGroup;
-			children = (
-				8B16837A20B023EC005BDB97 /* Node.swift */,
-				8B16838120B09573005BDB97 /* Rule.swift */,
-			);
-			path = XMLEntities;
-			sourceTree = "<group>";
-		};
 		8B16837920B0238E005BDB97 /* XMLParser */ = {
 			isa = PBXGroup;
 			children = (
+				8B924D0A20B3D26000C0F50D /* Entities */,
 				8B16837C20B0243B005BDB97 /* XMLSimpleParser.swift */,
 			);
 			path = XMLParser;
@@ -171,6 +170,7 @@
 			children = (
 				8B924CE320B178E300C0F50D /* article.xml */,
 				8B16837F20B089E8005BDB97 /* cd-catalog.xml */,
+				8B924D0520B3CEA700C0F50D /* nyt-rss.xml */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -214,6 +214,41 @@
 				8B924CFB20B2828A00C0F50D /* ViewController.swift */,
 			);
 			path = SimpleList;
+			sourceTree = "<group>";
+		};
+		8B924D0720B3CEE200C0F50D /* RSS */ = {
+			isa = PBXGroup;
+			children = (
+				8B924D1220B3DC1F00C0F50D /* Cells */,
+				8B924D0D20B3D26B00C0F50D /* Entities */,
+				8B924D0820B3CF0500C0F50D /* RSSPresenterViewController.swift */,
+				8B924D1020B3D2FD00C0F50D /* RSSEntitiesGenerator.swift */,
+			);
+			path = RSS;
+			sourceTree = "<group>";
+		};
+		8B924D0A20B3D26000C0F50D /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				8B924D0B20B3D26000C0F50D /* Node.swift */,
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
+		8B924D0D20B3D26B00C0F50D /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				8B924D0E20B3D28300C0F50D /* Article.swift */,
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
+		8B924D1220B3DC1F00C0F50D /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				8B924D1320B3DC3A00C0F50D /* ArticleTableViewCell.swift */,
+			);
+			path = Cells;
 			sourceTree = "<group>";
 		};
 		97AC7395DFAFA4AA1719F4AD /* Pods */ = {
@@ -316,6 +351,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B924D0620B3CEA700C0F50D /* nyt-rss.xml in Resources */,
 				8B16838020B089E8005BDB97 /* cd-catalog.xml in Resources */,
 				8B924CE420B178E300C0F50D /* article.xml in Resources */,
 				8B16836320B021FB005BDB97 /* LaunchScreen.storyboard in Resources */,
@@ -440,12 +476,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B924D0F20B3D28300C0F50D /* Article.swift in Sources */,
+				8B924D1420B3DC3A00C0F50D /* ArticleTableViewCell.swift in Sources */,
+				8B924D1120B3D2FD00C0F50D /* RSSEntitiesGenerator.swift in Sources */,
+				8B924D0920B3CF0500C0F50D /* RSSPresenterViewController.swift in Sources */,
+				8B924D0C20B3D26000C0F50D /* Node.swift in Sources */,
 				8B924D0020B2828A00C0F50D /* ViewController.swift in Sources */,
 				8B924CFE20B2828A00C0F50D /* HTMLPresenterViewController.swift in Sources */,
 				8B16837D20B0243B005BDB97 /* XMLSimpleParser.swift in Sources */,
-				8B16838220B09573005BDB97 /* Rule.swift in Sources */,
 				8B924CFF20B2828A00C0F50D /* OptionsViewController.swift in Sources */,
-				8B16837B20B023EC005BDB97 /* Node.swift in Sources */,
 				8B924CFC20B2828A00C0F50D /* DataRequest.swift in Sources */,
 				8B924CFD20B2828A00C0F50D /* HTMLEntitiesGenerator.swift in Sources */,
 				8B924CF220B1F74F00C0F50D /* ImageTableViewCell.swift in Sources */,
@@ -457,7 +496,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B924D0220B28A9600C0F50D /* Node.swift in Sources */,
 				8B924D0120B2887000C0F50D /* XMLSimpleParser.swift in Sources */,
 				8B924D0420B28DE900C0F50D /* HTMLSimpleTests.swift in Sources */,
 				8B16836E20B021FB005BDB97 /* XMLSimpleParserTests.swift in Sources */,

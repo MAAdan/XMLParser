@@ -1,0 +1,873 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT &gt; Home Page</title>
+        <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+        <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2018  The New York Times Company</copyright>
+        <lastBuildDate>Tue, 22 May 2018 04:03:07 GMT </lastBuildDate>
+        <image>
+            <title>NYT &gt; Home Page</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+        </image>
+        <item>
+            <title>Obama, Gina Haspel, Texas: Your Monday Evening Briefing</title>
+            <link>https://www.nytimes.com/2018/05/21/briefing/obama-gina-haspel-texas.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/briefing/obama-gina-haspel-texas.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/briefing/obama-gina-haspel-texas.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/briefing/21Eveningbriefing-slide-JFMA/21Eveningbriefing-slide-JFMA-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Doug Mills/The New York Times</media:credit>
+            <description>Here&#x2019;s what you need to know at the end of the day.</description>
+            <dc:creator>ZACH JOHNK and DAVID SCULL</dc:creator>
+            <pubDate>Tue, 22 May 2018 01:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title>Asia and Australia Edition: China, North Korea, Pope Francis: Your Tuesday Briefing</title>
+            <link>https://www.nytimes.com/2018/05/21/briefing/china-north-korea-pope-francis.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/briefing/china-north-korea-pope-francis.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/briefing/china-north-korea-pope-francis.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/briefing/052218-Asia-briefing-slide-2CNE/052218-Asia-briefing-slide-2CNE-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Agence France-Presse &#x2014; Getty Images</media:credit>
+            <description>Here&#x2019;s what you need to know to start your day.</description>
+            <dc:creator>DAN LEVIN</dc:creator>
+            <pubDate>Mon, 21 May 2018 21:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title>Divisions Within Trump Team Undercut Quick Trade Victory With China</title>
+            <link>https://www.nytimes.com/2018/05/21/us/politics/trump-trade-china.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/politics/trump-trade-china.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/us/politics/trump-trade-china.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/business/22dc-memo-print/22dc-memo-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Treasury Secretary Steven Mnuchin in January. He said Sunday that the United States would hold off on imposing tariffs on China. Hours later, a trade official threatened the opposite.</media:description>
+            <media:credit>Tom Brenner/The New York Times</media:credit>
+            <description>Ceaseless infighting and jockeying for influence on the White House&#x2019;s trade team helped deprive Mr. Trump of a quick victory on his most cherished policy agenda.</description>
+            <dc:creator>MARK LANDLER and ANA SWANSON</dc:creator>
+            <pubDate>Tue, 22 May 2018 00:12:12 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ross, Wilbur L Jr</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mnuchin, Steven T</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kudlow, Lawrence A</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lighthizer, Robert E</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu He (1952- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+        </item>
+        <item>
+            <title>Trump&#x2019;s Charm and Threats May Not Be Working on China. Here&#x2019;s Why.</title>
+            <link>https://www.nytimes.com/2018/05/21/business/china-trade-trump.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/business/china-trade-trump.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/business/china-trade-trump.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/business/22chinadefiant-1/22chinadefiant-1-moth-v4.jpg" medium="image" height="151" width="151"/>
+            <media:description>On Monday, President Trump promoted his administration&#x2019;s trade talks with China as a success, saying on Twitter that they would lead China to buy more American agricultural goods.</media:description>
+            <media:credit>Tom Brenner/The New York Times</media:credit>
+            <description>President Trump threatened tariffs on $150 billion in goods, then tried conciliation. Beijing&#x2019;s response either way: Rebuff the offers and avoid specific pledges.</description>
+            <dc:creator>KEITH BRADSHER</dc:creator>
+            <pubDate>Mon, 21 May 2018 20:55:15 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu He (1952- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">ZTE Corp</category>
+        </item>
+        <item>
+            <title>In China, Photo of Trade Talks Embodies &#x2018;Young&#x2019; Country Passing Aging U.S.</title>
+            <link>https://www.nytimes.com/2018/05/21/business/china-trade-talks.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/business/china-trade-talks.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/business/china-trade-talks.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <description>Social media users noticed a distinct age gap between the Chinese delegates and the American lawmakers who met them in Washington.</description>
+            <dc:creator>RAYMOND ZHONG</dc:creator>
+            <pubDate>Mon, 21 May 2018 15:16:58 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Trade and World Market</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Boxer Rebellion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu He (1952- )</category>
+        </item>
+        <item>
+            <title>News Analysis: Trump Team&#x2019;s Mueller Strategy: Limit the Investigation and Attack the Investigators</title>
+            <link>https://www.nytimes.com/2018/05/21/us/politics/trump-mueller-strategy-russia-inquiry.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/politics/trump-mueller-strategy-russia-inquiry.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/us/politics/trump-mueller-strategy-russia-inquiry.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/us/politics/22dc-strategy/merlin_138261216_00c272bc-0bf6-450a-8fce-bfdbadd35f87-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>President Trump&#x2019;s new strategy appears to be aimed at turning the focus away from the conduct of the president to that of his pursuers, while laying out a series of red lines to limit the reach and duration of the Russia investigation.</media:description>
+            <media:credit>Doug Mills/The New York Times</media:credit>
+            <description>&#x201C;They have now decided that they need to be more proactive, more aggressive and more anticipatory,&#x201D; says Alan Dershowitz, the Harvard Law School professor emeritus.</description>
+            <dc:creator>PETER BAKER</dc:creator>
+            <pubDate>Tue, 22 May 2018 01:47:35 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Espionage and Intelligence Services</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Inspectors General</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flood, Emmet T</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+        </item>
+        <item>
+            <title>News Analysis: By Demanding an Investigation, Trump Challenged a Constraint on His Power</title>
+            <link>https://www.nytimes.com/2018/05/21/us/politics/trump-justice-department-independence.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/politics/trump-justice-department-independence.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/us/politics/trump-justice-department-independence.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/us/politics/22dc-assess-1/22dc-assess-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Rod J. Rosenstein, the deputy attorney general, met with President Trump and other senior law enforcement and intelligence officials at the White House on Monday.</media:description>
+            <media:credit>Evan Vucci/Associated Press</media:credit>
+            <description>The president escalated his campaign to undermine the Justice Department&#x2019;s traditional independence from White House interference.</description>
+            <dc:creator>CHARLIE SAVAGE</dc:creator>
+            <pubDate>Tue, 22 May 2018 00:37:27 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Attorneys General</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenstein, Rod J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+        </item>
+        <item>
+            <title>Republican Leaders Will Be Allowed to See Some Information on Russia Investigation</title>
+            <link>https://www.nytimes.com/2018/05/21/us/politics/republicans-information-russia-investigation.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/politics/republicans-information-russia-investigation.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/us/politics/republicans-information-russia-investigation.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/us/22justice1_dc/22justice1_dc-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Rod J. Rosenstein, the deputy attorney general who is overseeing the Russia inquiry, leaving the White House on Monday.</media:description>
+            <media:credit>Evan Vucci/Associated Press</media:credit>
+            <description>Intelligence and law enforcement officials had said the information was highly delicate and that it was not appropriate to turn over unredacted material to Congress.</description>
+            <dc:creator>MICHAEL D. SHEAR and NICHOLAS FANDOS</dc:creator>
+            <pubDate>Tue, 22 May 2018 01:06:45 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberwarfare and Defense</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Classified Information and State Secrets</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">House Committee on Intelligence</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Senate</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Jim (1964- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, John F (1950- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nunes, Devin G</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenstein, Rod J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Sarah Huckabee</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+        </item>
+        <item>
+            <title>Unsheltered: What You Need to Know as a New York Tenant</title>
+            <link>https://www.nytimes.com/2018/05/20/nyregion/new-york-landlord-tenant-rights.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/20/nyregion/new-york-landlord-tenant-rights.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/20/nyregion/new-york-landlord-tenant-rights.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <description>The city&#x2019;s housing system can be complicated to navigate. Here&#x2019;s a quick primer on what your rights are and how to exercise them.</description>
+            <dc:creator>GRACE ASHFORD</dc:creator>
+            <pubDate>Sun, 20 May 2018 15:19:20 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rent Control and Stabilization</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Landlords</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Affordable Housing</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+        </item>
+        <item>
+            <title>How to Win an Election in Venezuela: Control the Food</title>
+            <link>https://www.nytimes.com/video/world/americas/100000005908945/how-to-win-an-election-in-venezuela-control-the-food.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000005908945/how-to-win-an-election-in-venezuela-control-the-food.html</guid>
+            <description>Subsidized eggs and frozen chickens may help to explain why President Nicol&#xE1;s Maduro stayed in power. Our correspondents followed his supporters as they enticed undernourished citizens to vote for Mr. Maduro in exchange for food.</description>
+            <dc:creator/>
+            <pubDate>Tue, 22 May 2018 01:39:24 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/des">Food</category>
+            <category domain="http://www.nytimes.com/namespaces/des">Elections</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_per">Maduro, Nicolas</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_geo">Venezuela</category>
+        </item>
+        <item>
+            <title>Police Confronted Texas School Gunman Within 4 Minutes, Sheriff Says</title>
+            <link>https://www.nytimes.com/2018/05/21/us/santa-fe-officer-wounded-john-barnes.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/santa-fe-officer-wounded-john-barnes.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/us/santa-fe-officer-wounded-john-barnes.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/us/22officer-print2/21officer_nat-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Dr. David Marshall, left, and Dr. Gulshan Sharma spoke at a hospital in Galveston, Tex., about the injuries suffered by Officer John Barnes during the school shooting in Santa Fe, Tex., on Friday. Dr. Sharma gestured to the area where Officer Barnes was hit by a shotgun blast.</media:description>
+            <media:credit>Kelsey Walling/The Galveston County Daily News, via Associated Press</media:credit>
+            <description>The Galveston County Sheriff said officers responding to the shooting at Santa Fe High hemmed the gunman into one classroom and saved lives by drawing his fire.</description>
+            <dc:creator>JACK HEALY</dc:creator>
+            <pubDate>Mon, 21 May 2018 23:57:22 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Santa Fe, Tex, Shooting (2018)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnes, John</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Fe (Tex)</category>
+        </item>
+        <item>
+            <title>A Unique American Ritual: The School Shooting</title>
+            <link>https://www.nytimes.com/video/us/100000005743519/school-shooting-images.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/video/us/100000005743519/school-shooting-images.html</guid>
+            <description>From the University of Texas in 1966, to Columbine and now Santa Fe, the images of school shootings across America are almost indistinguishable.</description>
+            <dc:creator/>
+            <pubDate>Fri, 23 Feb 2018 09:00:43 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/des">School Shootings and Armed Attacks</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_per">Whitman, Charles (1941-66)</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Columbine High School</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Virginia Polytechnic Institute and State University</category>
+            <category domain="http://www.nytimes.com/namespaces/des">Newtown, Conn, Shooting (2012)</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Sandy Hook Elementary School (Newtown, Conn)</category>
+            <category domain="http://www.nytimes.com/namespaces/des">Parkland, Fla, Shooting (2018)</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Marjory Stoneman Douglas High School (Parkland, Fla)</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_geo">United States</category>
+        </item>
+        <item>
+            <title>Can Parents Be Charged for Failing to Keep Their Guns Locked Up?</title>
+            <link>https://www.nytimes.com/2018/05/21/us/parents-guns-negligent-storage-laws.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/parents-guns-negligent-storage-laws.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/us/parents-guns-negligent-storage-laws.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/us/21gunstorage/21gunstorage-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A sign asking for more peace and fewer guns was part of a makeshift memorial outside Sante Fe High School on Sunday.</media:description>
+            <media:credit>Michael Stravato for The New York Times</media:credit>
+            <description>Texas is one of 14 states with a &#x201C;negligent storage law,&#x201D; which can make parents liable for crimes committed with their firearms by their children.</description>
+            <dc:creator>ADEEL HASSAN</dc:creator>
+            <pubDate>Mon, 21 May 2018 22:44:34 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Santa Fe, Tex, Shooting (2018)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+        </item>
+        <item>
+            <title>Bankers Hate the Volcker Rule. Now, It Could Be Watered Down.</title>
+            <link>https://www.nytimes.com/2018/05/21/business/volcker-rule-fed-banks-regulation.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/business/volcker-rule-fed-banks-regulation.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/business/volcker-rule-fed-banks-regulation.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/17/business/00volcker-1/00volcker-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Federal Reserve and other regulators will soon propose significant changes to the Volcker Rule, making it easier for large banks to engage in trading that can be highly profitable but also very risky.</media:description>
+            <media:credit>Jeenah Moon for The New York Times</media:credit>
+            <description>Softening the rule, which prohibits banks from making speculative but profitable wagers, is part of the White House&#x2019;s deregulatory push.</description>
+            <dc:creator>EMILY FLITTER and ALAN RAPPEPORT</dc:creator>
+            <pubDate>Tue, 22 May 2018 01:28:38 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Volcker Rule</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of the Comptroller of the Currency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Deposit Insurance Corp</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Volcker, Paul A</category>
+        </item>
+        <item>
+            <title>Neal Katyal: Can&#x2019;t Indict a President? That Could Hurt Trump</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/neal-katyal-indict-trump.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/neal-katyal-indict-trump.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/opinion/neal-katyal-indict-trump.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/opinion/21katyal/21katyal-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Protesters in Portland, Ore., at the National March for Impeachment in January.</media:description>
+            <media:credit>Diego Diaz/Icon Sportswire, via Getty Images</media:credit>
+            <description>Rudolph Giuliani&#x2019;s assertion would mean the president must testify.</description>
+            <dc:creator>NEAL K. KATYAL</dc:creator>
+            <pubDate>Tue, 22 May 2018 00:51:18 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Special Prosecutors (Independent Counsel)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Constitution (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Impeachment</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenstein, Rod J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+        </item>
+        <item>
+            <title>Trump v. the Department of Justice</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/trump-investigation-russia-surveillance.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/trump-investigation-russia-surveillance.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/opinion/trump-investigation-russia-surveillance.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/opinion/22tue1/22tue1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>James Steinberg</media:credit>
+            <description>President Trump and his enablers in Congress and the right-wing media are engaged in a dangerous campaign to undermine the foundations of American justice.</description>
+            <dc:creator>THE EDITORIAL BOARD</dc:creator>
+            <pubDate>Mon, 21 May 2018 22:54:20 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, James B</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+        </item>
+        <item>
+            <title>Op-Ed Columnist: What&#x2019;s the Matter With Europe?</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/europe-euro-democracy-wrong.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/europe-euro-democracy-wrong.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/opinion/europe-euro-democracy-wrong.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/opinion/22krugmanWeb/22krugmanWeb-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Supporters of the populist Five Star Movement celebrated its strong showing in Italy&#x2019;s general elections in March.</media:description>
+            <media:credit>Gianni Cipriano for The New York Times</media:credit>
+            <description>A discredited elite and dark forces rising. Sound familiar?</description>
+            <dc:creator>PAUL KRUGMAN</dc:creator>
+            <pubDate>Mon, 21 May 2018 21:24:17 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Euro (Currency)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Eurozone</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+        </item>
+        <item>
+            <title>On Campus: Why Being a Foster Child Made Me a Conservative</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/foster-child-conservative.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/foster-child-conservative.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/opinion/foster-child-conservative.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/opinion/21on-campus-Henderson/21on-campus-Henderson-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Arad Golan Coll/Falmouth University</media:credit>
+            <description>My experiences forced me to reflect on what environments are best for children. Certainly not the ones I came from.</description>
+            <dc:creator>ROB HENDERSON</dc:creator>
+            <pubDate>Mon, 21 May 2018 23:57:19 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Foster Care</category>
+        </item>
+        <item>
+            <title>Op-Ed Columnist: Stop Giving Trump the Benefit of the Doubt</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/trump-benefit-korea-summit.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/trump-benefit-korea-summit.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/opinion/trump-benefit-korea-summit.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/opinion/21goldbergWeb/22goldbergWeb-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>President Trump at the White House last week.</media:description>
+            <media:credit>Doug Mills/The New York Times </media:credit>
+            <description>The Korean summit meeting is a mess. Just like everything else.</description>
+            <dc:creator>MICHELLE GOLDBERG</dc:creator>
+            <pubDate>Tue, 22 May 2018 01:42:23 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Tax Cuts and Jobs Act (2017)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Arms Control and Limitation and Disarmament</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Weapons</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Bonuses</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nobel Prizes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moon Jae-in</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+        </item>
+        <item>
+            <title>Op-Ed Columnist: What Moral Heroes Are Made Of</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/moral-heroes-improve-society.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/moral-heroes-improve-society.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/opinion/moral-heroes-improve-society.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/opinion/22brooksWeb/22brooksWeb-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Getty Images</media:credit>
+            <description>What traits do those dedicated to improving society share?</description>
+            <dc:creator>DAVID BROOKS</dc:creator>
+            <pubDate>Tue, 22 May 2018 00:14:11 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sakharov, Andrei D</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Martin Luther Jr</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Teresa (Mother)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
+        </item>
+        <item>
+            <title>Editorial Observer: Pompeo&#x2019;s Iran Plan: Tell Them to Give Up</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/pompeo-iran-deal-give-up.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/pompeo-iran-deal-give-up.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/opinion/pompeo-iran-deal-give-up.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/opinion/21iranWeb/21iranWeb-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Secretary of State Mike Pompeo speaking at the Heritage Foundation on Monday.</media:description>
+            <media:credit>Win Mcnamee/Getty Images</media:credit>
+            <description>The new secretary of state is engaging in wishful thinking after President Trump renounced the nuclear deal.</description>
+            <dc:creator>CAROL GIACOMO</dc:creator>
+            <pubDate>Mon, 21 May 2018 23:58:04 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Iraq War (2003-11)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Speeches and Statements</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Heritage Foundation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolton, John R</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hussein, Saddam</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+        </item>
+        <item>
+            <title>Opinion: Supreme Court Deals a Blow to Workers</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/supreme-court-arbitration-forced.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/supreme-court-arbitration-forced.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/opinion/supreme-court-arbitration-forced.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/opinion/21gerstein/21gerstein-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Supreme Court ruled on Monday that companies can use arbitration clauses in employment contracts to bar workers from going to court over back wages or other workplace problems.</media:description>
+            <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+            <description>Employees who are underpaid, harassed or discriminated against have been left to press their cases alone in arbitration.</description>
+            <dc:creator>TERRI GERSTEIN and SHARON BLOCK</dc:creator>
+            <pubDate>Mon, 21 May 2018 19:44:46 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Collective Bargaining</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Organized Labor</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Arbitration, Conciliation and Mediation</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Workplace Environment</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Supreme Court (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gorsuch, Neil M</category>
+        </item>
+        <item>
+            <title>Venezuela&#x2019;s Sham Election</title>
+            <link>https://www.nytimes.com/2018/05/21/opinion/venezuela-maduro-sham-election.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/opinion/venezuela-maduro-sham-election.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/opinion/venezuela-maduro-sham-election.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/opinion/21venezuelaEDT/21venezuelaEDT-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Nicol&#xE1;s Maduro, center, greeted supporters after the election results were announced.</media:description>
+            <media:credit>Carlos Garcia Rawlins/Reuters</media:credit>
+            <description>Sunday&#x2019;s vote giving Nicol&#xE1;s Maduro another term was flawed by low turnout and rampant corruption. Venezuela&#x2019;s Latin neighbors must unite to isolate and force him from office.</description>
+            <dc:creator>THE EDITORIAL BOARD</dc:creator>
+            <pubDate>Mon, 21 May 2018 19:45:32 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">International Monetary Fund</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+        </item>
+        <item>
+            <title>In Hard-Line Speech, Pompeo Criticizes Iran&#x2019;s Behavior</title>
+            <link>https://www.nytimes.com/2018/05/21/world/middleeast/pompeo-iran-government-speech.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/world/middleeast/pompeo-iran-government-speech.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/world/middleeast/pompeo-iran-government-speech.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <description>Secretary of State Mike Pompeo delivered a remarkably hard-line speech about Iran, offering no concessions to European leaders who want to do business with Tehran.</description>
+            <dc:creator>GARDINER HARRIS</dc:creator>
+            <pubDate>Mon, 21 May 2018 22:30:12 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Economic Conditions and Trends</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Nonproliferation Treaty</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+        </item>
+        <item>
+            <title>Hundreds in Oakland Turn Out to BBQ While Black</title>
+            <link>https://www.nytimes.com/2018/05/21/us/oakland-bbq-while-black.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/oakland-bbq-while-black.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/us/oakland-bbq-while-black.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/autossell/22xp-bbq-02/22xp-bbq-02-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Lamont Patton cooked up a feast at the BBQing While Black event on Sunday at Lake Merritt in Oakland, Calif.</media:description>
+            <media:credit>Laura A. Oda/East Bay Times, via Associated Press</media:credit>
+            <description>The event was held at Lake Merritt, where two black men were hassled for grilling. &#x201C;It was a sea of love and blackness and food and fun,&#x201D; an organizer said.</description>
+            <dc:creator>LAURA M. HOLSON</dc:creator>
+            <pubDate>Tue, 22 May 2018 00:14:27 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+        </item>
+        <item>
+            <title>Man Agrees to Plead Guilty to Killing 5 at Fort Lauderdale Airport</title>
+            <link>https://www.nytimes.com/2018/05/21/us/fort-lauderdale-airport-shooting-esteban-santiago.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/fort-lauderdale-airport-shooting-esteban-santiago.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/us/fort-lauderdale-airport-shooting-esteban-santiago.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/us/22xp-plea1/22xp-plea1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Esteban Santiago before his arraignment in federal court in Fort Lauderdale, Fla., last year. Prosecutors said he would plead guilty in order to avoid the death penalty.</media:description>
+            <media:credit>Lynne Sladky/Associated Press</media:credit>
+            <description>Prosecutors say Esteban Santiago will plead guilty to 11 counts and serve five consecutive life sentences, followed by 120 years in prison, in connection with a 2017 rampage.</description>
+            <dc:creator>MATT STEVENS</dc:creator>
+            <pubDate>Tue, 22 May 2018 03:23:27 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santiago, Esteban (1990- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fort Lauderdale-Hollywood International Airport</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+        </item>
+        <item>
+            <title>Tesla Model 3 Goes Upscale, and Base-Price Buyers Must Wait</title>
+            <link>https://www.nytimes.com/2018/05/21/business/tesla-elon-musk.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/business/tesla-elon-musk.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/business/tesla-elon-musk.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/business/22tesla-1/22tesla-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Tesla&#x2019;s Model 3, between the larger Model S and Model X, in a San Diego showroom. So far the company has made only versions selling for $49,000 or more, but not the $35,000 base model.</media:description>
+            <media:credit>Frank Duenzl/Picture-Alliance, via Associated Press</media:credit>
+            <description>Elon Musk, the electric-car company&#x2019;s chief, said Tesla would lose money and die if it began selling the cheapest version of its mass-market car too soon.</description>
+            <dc:creator>NEAL E. BOUDETTE</dc:creator>
+            <pubDate>Tue, 22 May 2018 00:37:32 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tesla Motors Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Consumer Reports</category>
+        </item>
+        <item>
+            <title>Dozens Die in Karachi from Relentless Heat</title>
+            <link>https://www.nytimes.com/2018/05/21/world/karachi-heat-dead.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/world/karachi-heat-dead.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/world/karachi-heat-dead.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/world/22karachi1/22karachi1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A volunteer sprays water on people to keep them cool as temperatures reached 44 degrees Celsius (111.2 degrees Fahrenheit) in Karachi, Pakistan, on Monday.</media:description>
+            <media:credit>Fareed Khan/Associated Press</media:credit>
+            <description>The 15 million residents of Karachi, the Pakistani port city known as the concrete jungle, are enduring a heat wave with little relief in sight.</description>
+            <dc:creator>SALMAN MASOOD</dc:creator>
+            <pubDate>Mon, 21 May 2018 21:27:59 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Temperature</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karachi (Pakistan)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+        </item>
+        <item>
+            <title>Dovey Johnson Roundtree, Barrier-Breaking Lawyer, Dies at 104</title>
+            <link>https://www.nytimes.com/2018/05/21/obituaries/dovey-johnson-roundtree-dead.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/obituaries/dovey-johnson-roundtree-dead.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/obituaries/dovey-johnson-roundtree-dead.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/obituaries/22ROUNDTREE4/22ROUNDTREE4-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Dovey Johnson Roundtree outside the United States District Court in Washington, about 1985. &#x201C;As a woman, and as a woman of color in an age when black lawyers had to leave the courthouse to use the bathrooms, she dared to practice before the bar of justice and was unflinching,&#x201D; the co-author of her memoir said.</media:description>
+            <media:credit>via Dovey Johnson Roundtree</media:credit>
+            <description>Though little recognized, Ms. Roundtree won advances for black people and women at the bar of justice, challenging the Jim Crow society she knew too well.</description>
+            <dc:creator>MARGALIT FOX</dc:creator>
+            <pubDate>Tue, 22 May 2018 01:28:19 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roundtree, Dovey Johnson</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legal Profession</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Civil Rights Movement (1954-68)</category>
+        </item>
+        <item>
+            <title>Hillary and Bill Clinton Go Separate Ways for 2018 Midterm Elections</title>
+            <link>https://www.nytimes.com/2018/05/21/us/politics/hillary-clinton-bill-midterms.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/politics/hillary-clinton-bill-midterms.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/us/politics/hillary-clinton-bill-midterms.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/us/politics/20clintons1-print/20clintons1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Hillary Clinton and former President Bill Clinton arriving for the funeral of Barbara Bush in Houston last month. The couple has been largely absent from the 2018 midterm campaigns.</media:description>
+            <media:credit>Pool photo by David J. Phillip</media:credit>
+            <description>Mrs. Clinton plans to endorse Andrew M. Cuomo for governor of New York this week. But elsewhere on the 2018 campaign trail, she and Mr. Clinton are not always welcome.</description>
+            <dc:creator>ALEXANDER BURNS and MATT FLEGENHEIMER</dc:creator>
+            <pubDate>Mon, 21 May 2018 09:00:06 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Hillary Rodham</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+        </item>
+        <item>
+            <title>In Jersey City, It&#x2019;s Kushner vs. Kushner in a Race to Develop</title>
+            <link>https://www.nytimes.com/2018/05/21/nyregion/jersey-city-kushner-fulop-jared-journal-square-development.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/nyregion/jersey-city-kushner-fulop-jared-journal-square-development.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/nyregion/jersey-city-kushner-fulop-jared-journal-square-development.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/nyregion/22KushnerInJC01/00KushnerInJC01-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A view of Murray Kushner&#x2019;s Journal Square tower in Jersey City. His estranged brother, Charles, has plans to build right nearby, but has yet to break ground.</media:description>
+            <media:credit>Andres Kudacki for The New York Times</media:credit>
+            <description>Charles and Murray Kushner, famously estranged brothers, are each betting they can transform a gritty neighborhood. Can both win?</description>
+            <dc:creator>CHARLES V. BAGLI</dc:creator>
+            <pubDate>Mon, 21 May 2018 22:46:32 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Real Estate and Housing (Residential)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Kushner Cos</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Kushner Real Estate Group</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">WeWork Companies Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fulop, Steven M</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Charles</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jersey City (NJ)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Murray</category>
+        </item>
+        <item>
+            <title>Survivor of Halloween Terror Attack Says She Will Not Be a Victim</title>
+            <link>https://www.nytimes.com/2018/05/21/nyregion/nyc-halloween-terror-survivor.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/nyregion/nyc-halloween-terror-survivor.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/nyregion/nyc-halloween-terror-survivor.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/nyregion/22survivor/00survivor-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Rachel Pharn lives in West New York, N.J., across the river from where she was seriously injured in the Halloween terror attack in Manhattan. &#x201C;The first week, I was in such disbelief that I was alive.&#x201D;</media:description>
+            <media:credit>Bryan Anselm for The New York Times</media:credit>
+            <description>Rachel Pharn, 26, was sideswiped by a pickup truck in the October attack on a Manhattan bicycle path that left eight people dead and 11 others injured.</description>
+            <dc:creator>JAN RANSOM</dc:creator>
+            <pubDate>Tue, 22 May 2018 04:02:51 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Manhattan, NY, Attack (October, 2017)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders, Attempted Murders and Homicides</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saipov, Sayfullo</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rachel Pharn</category>
+        </item>
+        <item>
+            <title>Madame Pele, Hawaii&#x2019;s Goddess of Volcanoes, Awes Those Living in Lava&#x2019;s Path</title>
+            <link>https://www.nytimes.com/2018/05/21/us/pele-hawaii-volcano.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/us/pele-hawaii-volcano.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/us/pele-hawaii-volcano.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/us/22pele-01-print/00pele-01-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Stefani Hinkle honored Madame Pele, the Hawaiian goddess of volcanoes and fire, in Kapoho, Hawaii.</media:description>
+            <media:credit/>
+            <description>Expressing reverence for their deity, many living in Kilauea&#x2019;s shadow welcome its eruption &#x2014; even when it destroys their home.</description>
+            <dc:creator>SIMON ROMERO and TAMIR KALIFA</dc:creator>
+            <pubDate>Mon, 21 May 2018 21:40:56 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kilauea Volcano (Hawaii)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Pele</category>
+        </item>
+        <item>
+            <title>Fashion&#x2019;s Woman Problem</title>
+            <link>https://www.nytimes.com/2018/05/20/fashion/glass-runway-no-female-ceos.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/20/fashion/glass-runway-no-female-ceos.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/20/fashion/glass-runway-no-female-ceos.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/20/fashion/20CFDA/20CFDA-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Greg Betza</media:credit>
+            <description>Why is it that an industry aimed at women and buoyed by female dollars is still run mostly by men? A new study tries to find out.</description>
+            <dc:creator>VANESSA FRIEDMAN</dc:creator>
+            <pubDate>Sun, 20 May 2018 07:00:01 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Appointments and Executive Changes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Council of Fashion Designers of America</category>
+        </item>
+        <item>
+            <title>Venice Journal: A Chance to Spend 99-Plus Years in Venice (in the Afterlife)</title>
+            <link>https://www.nytimes.com/2018/05/21/world/europe/venice-cemetery-auction.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/world/europe/venice-cemetery-auction.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/world/europe/venice-cemetery-auction.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/world/22venicecemetery1-print/merlin_137888628_a3308778-48ea-40fb-9f98-1c5826bcfe42-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The San Michele cemetery in Venice is the resting place of numerous celebrities as well as Venetians of all classes.</media:description>
+            <media:credit>Nadia Shira Cohen for The New York Times</media:credit>
+            <description>Even if you can&#x201;#x2019;t afford a palazzo on the Grand Canal, you might be able to bid for a plot in the cemetery of San Michele.</description>
+            <dc:creator>ELISABETTA POVOLEDO</dc:creator>
+            <pubDate>Mon, 21 May 2018 14:36:02 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Auctions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brugnaro, Luigi (1961- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venice (Italy)</category>
+        </item>
+        <item>
+            <title>How Smarter Living Taught Me to Be an Adult</title>
+            <link>https://www.nytimes.com/2018/05/19/insider/smarter-living-tim-herrera.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/19/insider/smarter-living-tim-herrera.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/19/insider/smarter-living-tim-herrera.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/16/insider/00-insider-herrera-4/00-insider-herrera-4-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Tim Herrera, the editor of The Times's Smarter Living section. </media:description>
+            <media:credit>Joe Carrotta for The New York Times</media:credit>
+            <description>Four things I&#x2019;ve learned that can help you, too.</description>
+            <dc:creator>TIM HERRERA</dc:creator>
+            <pubDate>Mon, 21 May 2018 18:17:15 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Paid Time Off</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">SoulCycle LLC</category>
+        </item>
+        <item>
+            <title>What to Cook: What to Cook This Week</title>
+            <link>https://www.nytimes.com/2018/05/20/dining/what-to-cook-this-week.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/20/dining/what-to-cook-this-week.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/20/dining/what-to-cook-this-week.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/20/magazine/20Eat-copy2/20Eat-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Fish fry (chepa vepudu).</media:description>
+            <media:credit>Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Wilson.</media:credit>
+            <description>Make a great new recipe for a simple fish fry from Archana Pidathala, and maybe knock out a black-bean soup for the days ahead.</description>
+            <dc:creator>SAM SIFTON</dc:creator>
+            <pubDate>Sun, 20 May 2018 14:30:01 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+        </item>
+        <item>
+            <title>A Beginner&#x2019;s Guide to Backing Up Photos</title>
+            <link>https://www.nytimes.com/2018/01/11/smarter-living/backing-up-your-photos.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/01/11/smarter-living/backing-up-your-photos.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/01/11/smarter-living/backing-up-your-photos.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/11/01/opinion/00sl-photobackup1/00sl-photobackup1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Robyn Beck/Agence France-Presse &#x2014; Getty Images</media:credit>
+            <description>Whether they&#x2019;re digital photos on your smartphone or old negatives in your attic, here&#x2019;s how to get started tackling your photo clutter.</description>
+            <dc:creator>TERRY SULLIVAN</dc:creator>
+            <pubDate>Thu, 11 Jan 2018 21:13:06 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Storage</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cloud Computing</category>
+        </item>
+        <item>
+            <title>Phys Ed: How Strenuous Exercise Affects Our Immune System</title>
+            <link>https://www.nytimes.com/2018/04/25/well/move/how-strenuous-exercise-affects-our-immune-system.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/04/25/well/move/how-strenuous-exercise-affects-our-immune-system.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/04/25/well/move/how-strenuous-exercise-affects-our-immune-system.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/01/well/01marathon2/marathon2-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Michal Klag/EPA, via Shutterstock</media:credit>
+            <description>Marathons or other vigorous events are unlikely to make you vulnerable to colds afterward, according to a myth-busting review of the latest science.</description>
+            <dc:creator>GRETCHEN REYNOLDS</dc:creator>
+            <pubDate>Wed, 25 Apr 2018 10:00:01 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Colds</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Marathon Running</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Ultramarathon Running</category>
+        </item>
+        <item>
+            <title>How a Digital Rabbit Hole Gave Midori Takada&#x2019;s 1983 Album a Second Life</title>
+            <link>https://www.nytimes.com/2018/05/21/arts/music/midori-takada-through-the-looking-glass.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/arts/music/midori-takada-through-the-looking-glass.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/21/arts/music/midori-takada-through-the-looking-glass.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/arts/22takada1/22takada1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Japanese composer and percussionist Midori Takada released &#x201C;Through the Looking Glass&#x201D; in 1983. Three decades later, a YouTube algorithm introduced it to a world of new listeners.</media:description>
+            <media:credit>Rozette Rago for The New York Times</media:credit>
+            <description>&#x201C;Through the Looking Glass&#x201D; sold poorly upon its release, but a YouTube algorithm later brought it fresh attention; now the Japanese musician is on a U.S. tour.</description>
+            <dc:creator>ANDY BETA</dc:creator>
+            <pubDate>Mon, 21 May 2018 21:09:29 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Midori Takada</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Through the Looking Glass (Album)</category>
+        </item>
+        <item>
+            <title>Robert Indiana, 89, Who Turned &#x2018;Love&#x2019; Into Enduring Art, Is Dead</title>
+            <link>https://www.nytimes.com/2018/05/21/obituaries/robert-indiana-love-pop-art-dies.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/obituaries/robert-indiana-love-pop-art-dies.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/obituaries/robert-indiana-love-pop-art-dies.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/obituaries/22INDIANAOBIT2-print/22INDIANAOBIT1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Robert Indiana mixed paint in front of a design for a poster for the New York State Theater at Lincoln Center in 1964.</media:description>
+            <media:credit>Robert Walker/The New York Times</media:credit>
+            <description>Mr. Indiana&#x2019;s depiction of the letters L, O, V and E was one of the best-known images of the 20th century, widely reproduced but also widely imitated.</description>
+            <dc:creator>JORI FINKEL</dc:creator>
+            <pubDate>Tue, 22 May 2018 04:02:59 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Indiana, Robert</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Museum of Modern Art</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Stamps (Postal)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, Ellsworth</category>
+        </item>
+        <item>
+            <title>Andy Warhol&#x2019;s Interview Magazine Shuts Down</title>
+            <link>https://www.nytimes.com/2018/05/21/business/media/interview-magazine-warhol.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/business/media/interview-magazine-warhol.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/business/media/interview-magazine-warhol.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/arts/22xp-interview/22xp-interview-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Interview magazine, founded by Andy Warhol, told employees on Monday that it was closing and filing for Chapter 7 bankruptcy.</media:description>
+            <media:credit>Richard Lautens/Toronto Star, via Getty Images</media:credit>
+            <description>The publication is filing for bankruptcy, according to an associate editor at the magazine.</description>
+            <dc:creator>NIRAJ CHOKSHI</dc:creator>
+            <pubDate>Mon, 21 May 2018 23:45:43 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Interview (Magazine)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Magazines</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Brant Publications Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+        </item>
+        <item>
+            <title>Nonfiction: A Battle for the &#x2018;Soul of America&#x2019;? It&#x2019;s as Old as America, One Historian Notes</title>
+            <link>https://www.nytimes.com/2018/05/21/books/review/jon-meacham-soul-of-america.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/books/review/jon-meacham-soul-of-america.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/books/review/jon-meacham-soul-of-america.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/06/10/books/review/10Wilentz/merlin_138354510_bf32b8b5-0e2a-40e9-ac4d-4ebfb4ab16b4-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A mural depicting Frederick Douglass petitioning President Lincoln to enlist African Americans in the Union Army. (William Edouard Scott, 1943.)</media:description>
+            <media:credit>Carol M. Highsmith/Buyenlarge, via Getty Images</media:credit>
+            <description>In his new book, the Pulitzer Prize-winning historian Jon Meacham argues that in bad times a liberal impulse has often prevailed over fear and division.</description>
+            <dc:creator>SEAN WILENTZ</dc:creator>
+            <pubDate>Mon, 21 May 2018 19:07:52 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meacham, Jon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Soul of America (Book)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Civil Rights Movement (1954-68)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Reconstruction Era</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Du Bois, W E B</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Martin Luther Jr</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roosevelt, Franklin Delano</category>
+        </item>
+        <item>
+            <title>Q. &amp; A.: Tell Us 5 Things About Your Book: Making Good Time With the Pony Express</title>
+            <link>https://www.nytimes.com/2018/05/20/books/west-like-lightning-pony-express-jim-defelice-interview.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/20/books/west-like-lightning-pony-express-jim-defelice-interview.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/20/books/west-like-lightning-pony-express-jim-defelice-interview.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/21/arts/21defelice-fivequestions1/21defelice-fivequestions1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Alessandra Montalto/The New York Times</media:credit>
+            <description>Jim DeFelice talks about &#x201C;West Like Lightning,&#x201D; his new history of the short-lived but long-remembered company and how it changed the United States.</description>
+            <dc:creator>JOHN WILLIAMS</dc:creator>
+            <pubDate>Sun, 20 May 2018 15:52:34 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeFelice, Jim</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">West Like Lightning: The Brief, Legendary Ride of the Pony Express (Book)</category>
+        </item>
+        <item>
+            <title>Alien Asteroids Are Here, Scientists Say. Get Used to Them.</title>
+            <link>https://www.nytimes.com/2018/05/21/science/asteroid-interstellar-jupiter.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/21/science/asteroid-interstellar-jupiter.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/21/science/asteroid-interstellar-jupiter.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/18/science/00ASTEROID1/00ASTEROID1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Images of the asteroid 2015 BZ509 obtained at the Large Binocular Telescope Observatory near Safford, Ariz. Called &#x201C;BZ&#x201D; for short, it orbits the sun in the opposite direction of the planets.</media:description>
+            <media:credit>C. Veillet/Large Binocular Telescope Observatory</media:credit>
+            <description>An asteroid that cohabits an orbit with Jupiter came from outside the solar system.</description>
+            <dc:creator>DENNIS OVERBYE</dc:creator>
+            <pubDate>Mon, 21 May 2018 17:00:49 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Jupiter (Planet)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Space and Astronomy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Asteroids</category>
+        </item>
+        <item>
+            <title>Doctors: My Patient&#x2019;s Smile</title>
+            <link>https://www.nytimes.com/2018/05/16/well/live/doctors-patients-neurology-medical-treatment-family.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/16/well/live/doctors-patients-neurology-medical-treatment-family.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2018/05/16/well/live/doctors-patients-neurology-medical-treatment-family.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/well/00Doctor-smile-art/merlin_137311911_daef8ea5-6181-46af-bf03-3095bb263846-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Brian Stauffer</media:credit>
+            <description>I&#x2019;m drawn to the human brain, its unforgiving and protean nature.</description>
+            <dc:creator>ABDUL-KAREEM AHMED</dc:creator>
+            <pubDate>Mon, 21 May 2018 09:33:19 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain Cancer</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Tumors</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hospitals</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Depression (Mental)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+        </item>
+        <item>
+            <title>Trilobites: The Thing Inside Your Cells That Might Determine How Long You Live</title>
+            <link>https://www.nytimes.com/2018/05/20/science/nucleolus-cells-aging.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2018/05/20/science/nucleolus-cells-aging.html</guid>
+            <atom:link href="https://www.nytimes.com/2018/05/20/science/nucleolus-cells-aging.html?partner=rss&amp;emc=rss" rel="standout"/>
+            <media:content url="https://static01.nyt.com/images/2018/05/22/science/20TB-CELL/20TB-CELL-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A colored transmission electron micrograph of a human serous cell&#x2019;s nucleus, with its nucleolus in purple. The nucleolus functions as the sort of brain of the nucleus, making rRNA, a basic ingredient for making proteins.</media:description>
+            <media:credit>Jose Calvo/Science Source</media:credit>
+            <description>You may have forgotten about the nucleolus since you took biology class, but scientists think this structure inside every cell in your body may play an important role in aging.</description>
+            <dc:creator>JOANNA KLEIN</dc:creator>
+            <pubDate>Sun, 20 May 2018 16:52:46 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Proteins</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antebi, Adam</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Trends in Cell Biology (Journal)</category>
+        </item>
+    </channel>
+</rss>

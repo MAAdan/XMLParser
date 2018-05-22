@@ -8,7 +8,7 @@
 
 import UIKit
 
-class HTMLPresenterViewController: UITableViewController {
+class HTMLPresenterViewController: UITableViewController, OptionPresenterProtocol {
     
     var result: [HTMLEntity]?
     var selectedOption: String?
@@ -32,12 +32,15 @@ class HTMLPresenterViewController: UITableViewController {
                 print(error.localizedDescription)
             }
         }
-        
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+    }
+    
+    func set(selectedOption: String) {
+        self.selectedOption = selectedOption
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

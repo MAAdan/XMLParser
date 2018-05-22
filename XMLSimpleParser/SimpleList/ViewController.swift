@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, OptionPresenterProtocol {
     
     @IBOutlet weak var tableView: UITableView!
     
@@ -36,6 +36,10 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+    }
+    
+    func set(selectedOption: String) {
+        self.selectedOption = selectedOption
     }
 }
 

@@ -8,6 +8,11 @@
 
 import UIKit
 
+protocol OptionPresenterProtocol {
+    var selectedOption: String? { get set }
+    func set(selectedOption: String)
+}
+
 class OptionsViewController: UITableViewController {
 
     override func viewDidLoad() {
@@ -23,17 +28,10 @@ class OptionsViewController: UITableViewController {
     
     // MARK: - Navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        if let id = segue.identifier {
-            switch id {
-            case "toParseViewControllerSegueId":
-                if let vc = segue.destination as? ViewController, let option = sender as? String {
-                    vc.selectedOption = option
-                }
-            default:
-                if let vc = segue.destination as? HTMLPresenterViewController, let option = sender as? String {
-                    vc.selectedOption = option
-                }
-            }
+        if let destination = segue.destination as? OptionPresenterProtocol,
+            let option = sender as? String {
+            
+            destination.set(selectedOption: option)
         }
     }
     
@@ -44,9 +42,15 @@ class OptionsViewController: UITableViewController {
         case 0:
             option = "cd-catalog"
             segueId = "toParseViewControllerSegueId"
+        case 1:
+            option = "article"
+            segueId = "toParseViewControllerSegueId"
         case 2:
             option = "article"
             segueId = "toHTMLPresenterViewController"
+        case 3:
+            option = "nyt-rss"
+            segueId = "toRssViewController"
         default:
             option = "article"
             segueId = "toParseViewControllerSegueId"
