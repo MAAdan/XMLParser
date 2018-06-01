@@ -173,16 +173,16 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="E4c-Zm-5bi">
-                                            <rect key="frame" x="8" y="8" width="359" height="200"/>
+                                            <rect key="frame" x="8" y="8" width="359" height="202"/>
                                             <constraints>
-                                                <constraint firstAttribute="height" constant="200" placeholder="YES" id="8PY-M7-ylK"/>
+                                                <constraint firstAttribute="width" secondItem="E4c-Zm-5bi" secondAttribute="height" multiplier="16:9" identifier="CustomImageAspectRationConstraint" id="J1H-kX-b2T"/>
                                             </constraints>
                                         </imageView>
                                     </subviews>
                                     <constraints>
                                         <constraint firstAttribute="trailing" secondItem="E4c-Zm-5bi" secondAttribute="trailing" constant="8" id="4UV-8e-i6Z"/>
                                         <constraint firstItem="E4c-Zm-5bi" firstAttribute="top" secondItem="Nn7-1r-cH8" secondAttribute="top" constant="8" id="7ZO-dq-rQD"/>
-                                        <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="E4c-Zm-5bi" secondAttribute="bottom" constant="8" id="FTt-Dp-aZl"/>
+                                        <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="E4c-Zm-5bi" secondAttribute="bottom" priority="999" constant="8" id="FTt-Dp-aZl"/>
                                         <constraint firstItem="E4c-Zm-5bi" firstAttribute="leading" secondItem="Nn7-1r-cH8" secondAttribute="leading" constant="8" id="RES-EH-pGE"/>
                                     </constraints>
                                 </tableViewCellContentView>

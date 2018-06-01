@@ -20,7 +20,7 @@ class ImageTableViewCell: UITableViewCell {
     override func prepareForReuse() {
         super.prepareForReuse()
         if let aspectRatio = aspectRatio {
-            imageView?.removeConstraint(aspectRatio)
+            customImageView?.removeConstraint(aspectRatio)
         }
     }
     
@@ -32,14 +32,32 @@ class ImageTableViewCell: UITableViewCell {
         super.setSelected(selected, animated: animated)
     }
     
-    func setImageWith(urlString: String, completion: @escaping ImageTableViewCellCompletionHandler) {
+    func setImageWith(url: URL, completion: @escaping ImageTableViewCellCompletionHandler) {
         
-        if let url = URL(string: urlString) {
-            customImageView.kf.setImage(with: url, placeholder: nil, options: nil, progressBlock: nil, completionHandler: { (image, error, cacheType, imageUrl) in
+        customImageView.kf.setImage(with: url, placeholder: nil, options: nil, progressBlock: nil, completionHandler: { (image, error, cacheType, imageUrl) in
+            
+            if let width = image?.size.width, let height = image?.size.height {
                 
-            })
-        } else {
-            customImageView?.image = nil
-        }
+                if let titleCenterYConstraint = try? self.customImageView?.getConstraintWith(id: "CustomImageAspectRationConstraint") {
+                    titleCenterYConstraint?.isActive = false
+                    
+                    let newConstraint = NSLayoutConstraint(
+                        item: self.customImageView,
+                        attribute: .height,
+                        relatedBy: .equal,
+                        toItem: self.customImageView,
+                        attribute: .width,
+                        multiplier: (height / width),
+                        constant: 1
+                    )
+                    
+                    newConstraint.priority = UILayoutPriority(999)
+                    newConstraint.identifier = "CustomImageAspectRationConstraint"
+                    newConstraint.isActive = true
+                }
+            }
+            
+            completion(image, error, url)
+        })
     }
 }

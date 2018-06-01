@@ -53,25 +53,10 @@ class HTMLPresenterViewController: UITableViewController, OptionPresenterProtoco
             let cell = tableView.dequeueReusableCell(withIdentifier: "ImageCellId", for: indexPath) as! ImageTableViewCell
             if let url = URL(string: htmlEntity.content) {
                 
-                cell.customImageView.kf.setImage(with: url, placeholder: nil, options: nil, progressBlock: nil, completionHandler: { (image, error, cacheType, imageUrl) in
-                    
-                    if let width = image?.size.width, let height = image?.size.height {
-                        cell.aspectRatio = NSLayoutConstraint(
-                            item: cell.customImageView,
-                            attribute: .height,
-                            relatedBy: .equal,
-                            toItem: cell.customImageView,
-                            attribute: .width,
-                            multiplier: (height / width),
-                            constant: 1
-                        )
-                        
-                        cell.customImageView.addConstraint(cell.aspectRatio!)
-                        
-                        if !self.downloadedImages.contains(htmlEntity.content) {
-                            self.downloadedImages.append(htmlEntity.content)
-                            self.tableView.reloadData()
-                        }
+                cell.setImageWith(url: url, completion: { (image, error, url) in
+                    if !self.downloadedImages.contains(htmlEntity.content) {
+                        self.downloadedImages.append(htmlEntity.content)
+                        self.tableView.reloadData()
                     }
                 })
             }

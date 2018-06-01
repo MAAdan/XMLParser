@@ -30,6 +30,7 @@
 		8B924D0F20B3D28300C0F50D /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D0E20B3D28300C0F50D /* Article.swift */; };
 		8B924D1120B3D2FD00C0F50D /* RSSEntitiesGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D1020B3D2FD00C0F50D /* RSSEntitiesGenerator.swift */; };
 		8B924D1420B3DC3A00C0F50D /* ArticleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B924D1320B3DC3A00C0F50D /* ArticleTableViewCell.swift */; };
+		8BAAE9E020C0F03B00875886 /* UIView+Constraints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BAAE9DF20C0F03B00875886 /* UIView+Constraints.swift */; };
 		CDCEE695DC1AB278A3EB9E63 /* Pods_XMLSimpleParser.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D8B1FDF2E6B273582247A84 /* Pods_XMLSimpleParser.framework */; };
 /* End PBXBuildFile section */
 
@@ -73,6 +74,7 @@
 		8B924D0E20B3D28300C0F50D /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
 		8B924D1020B3D2FD00C0F50D /* RSSEntitiesGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RSSEntitiesGenerator.swift; sourceTree = "<group>"; };
 		8B924D1320B3DC3A00C0F50D /* ArticleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleTableViewCell.swift; sourceTree = "<group>"; };
+		8BAAE9DF20C0F03B00875886 /* UIView+Constraints.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Constraints.swift"; sourceTree = "<group>"; };
 		92B0C13328CE415A121EED7A /* Pods-XMLSimpleParser.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLSimpleParser.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMLSimpleParser/Pods-XMLSimpleParser.debug.xcconfig"; sourceTree = "<group>"; };
 		D2117C058C952B1BB7013CDC /* Pods-XMLSimpleParserTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLSimpleParserTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XMLSimpleParserTests/Pods-XMLSimpleParserTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,6 +131,7 @@
 		8B16835720B021FB005BDB97 /* XMLSimpleParser */ = {
 			isa = PBXGroup;
 			children = (
+				8BAAE9DE20C0F03A00875886 /* Extensions */,
 				8B924D0720B3CEE200C0F50D /* RSS */,
 				8B924CF320B2828900C0F50D /* DataRequest */,
 				8B924CF520B2828900C0F50D /* HTMLParser */,
@@ -249,6 +252,14 @@
 				8B924D1320B3DC3A00C0F50D /* ArticleTableViewCell.swift */,
 			);
 			path = Cells;
+			sourceTree = "<group>";
+		};
+		8BAAE9DE20C0F03A00875886 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				8BAAE9DF20C0F03B00875886 /* UIView+Constraints.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 		97AC7395DFAFA4AA1719F4AD /* Pods */ = {
@@ -479,6 +490,7 @@
 				8B924D0F20B3D28300C0F50D /* Article.swift in Sources */,
 				8B924D1420B3DC3A00C0F50D /* ArticleTableViewCell.swift in Sources */,
 				8B924D1120B3D2FD00C0F50D /* RSSEntitiesGenerator.swift in Sources */,
+				8BAAE9E020C0F03B00875886 /* UIView+Constraints.swift in Sources */,
 				8B924D0920B3CF0500C0F50D /* RSSPresenterViewController.swift in Sources */,
 				8B924D0C20B3D26000C0F50D /* Node.swift in Sources */,
 				8B924D0020B2828A00C0F50D /* ViewController.swift in Sources */,
